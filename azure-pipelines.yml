@@ -20,6 +20,6 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/imaadm/ARMPipelineDemo/master/template/azuredeploy.json?token=GHSAT0AAAAAACEMT7WUTHY3YAELSOXHSWICZFHRFYQ'
-    overrideParameters: '-projectName ARMPipelineDemo'
+    overrideParameters: '-projectName ARMDemo'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
