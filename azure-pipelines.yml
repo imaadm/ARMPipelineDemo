@@ -17,7 +17,7 @@ steps:
     subscriptionId: '6af5375e-2520-41ba-9f28-b72b70fcf17b'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'ARMPipeline-rg'
-    location: 'Central US'
+    location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/imaadm/ARMPipelineDemo/master/template/azuredeploy.json?token=GHSAT0AAAAAACEMT7WUTHY3YAELSOXHSWICZFHRFYQ'
     overrideParameters: '-projectName armdemo'
